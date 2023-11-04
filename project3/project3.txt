@@ -1,0 +1,33 @@
+### **Project:**
+
+**Create a Product Landing Page**
+
+### **Objective:**
+
+Create a product landing page using HTML that demonstrates your understanding of essential HTML topics in an intuitive and captivating manner.
+
+### **Requirements:**
+
+1. Create an HTML file named "product_landing_page.html".
+2. Start your HTML document with a **`<!DOCTYPE html>`** declaration.
+3. Include the necessary HTML tags to define the structure of the document, such as the **`<html>`**, **`<head>`**, and **`<body>`** tags.
+4. Inside the **`<head>`** tag, add a **`<title>`** tag to give your webpage a title, such as "Stellar Drone - The Future of Aerial Photography".
+5. Also in the **`<head>`** tag, include the viewport meta tag to ensure your webpage is responsive on different devices.
+6. Use semantic HTML elements like **`<header>`**, **`<footer>`**, **`<nav>`**, **`<section>`**, **`<article>`**, and **`<aside>`** to structure your webpage.
+7. Include the following elements in your webpage:
+    - A header with the product's name and a captivating tagline using the **`<header>`** tag.
+    - A navigation bar with links to various sections of the page using the **`<nav>`** tag.
+    - A main section showcasing the product's features, benefits, and a gallery of product images using the **`<section>`** and **`<article>`** tags.
+    - An aside section that includes testimonials, reviews, or user stories using the **`<aside>`** tag.
+    - A footer that includes warranty information, social media links, and a contact email using the **`<footer>`** tag.
+8. Use HTML elements for text formatting such as headings, paragraphs, bold, italics, and lists.
+9. Create a table to display a comparison between the product and its competitors.
+10. Include images, links, and multimedia elements such as audio or video to provide a comprehensive view of the product.
+11. Use proper indentation and formatting to make your HTML code easily readable.
+12. Save your HTML file and open it in a web browser to view your product landing page.
+
+### **Submission:**
+
+Submit the "product_landing_page.html" file containing your product landing page. Ensure that your code adheres to the assignment requirements and demonstrates your understanding of crucial HTML topics.
+
+**Note:** This assignment does not incorporate CSS styling, so the visual appearance of your webpage will be basic. Once you are familiar with CSS, you can enhance the styling of your product landing page.
