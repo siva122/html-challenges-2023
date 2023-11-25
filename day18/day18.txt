@@ -1,0 +1,17 @@
+### **Objective:**
+
+The objective of this assignment is to demonstrate your understanding of responsive web design principles and techniques. You will showcase your skills in using the viewport meta tag, media queries, and advanced CSS selectors to create a responsive website.
+
+### Requirements:
+
+1. Create a static website with a minimum of three pages (e.g., Home, About, Contact).
+2. Implement a responsive design that adapts to different screen sizes and devices.
+3. Use the viewport meta tag to ensure proper rendering and scaling on mobile devices.
+4. Utilize media queries to apply specific styles based on different screen sizes.
+5. Apply advanced CSS selectors to target specific elements and apply custom styles.
+
+### Submission:
+
+1. An HTML file.
+2. A CSS file.
+3. A summary of what you've learned in this assignment.

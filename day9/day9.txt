@@ -1,0 +1,30 @@
+### **Objective:**
+
+The objective of this assignment is to practice applying CSS properties related to padding, margin, and the box model concept.
+
+### Requirements:
+
+1. Create an HTML file with a container element, an inner element, and an outer element.
+
+1. Apply CSS properties to style the container, inner, and outer elements according to the following requirements:
+    - Container:
+        - Set a background color of your choice.
+        - Apply padding and margin to create spacing around the container.
+    - Inner:
+        - Set a background color different from the container.
+        - Adjust the padding to create space between the content and the inner element.
+    - Outer:
+        - Set a background color different from the container and inner element.
+        - Apply margin to create space between the outer element and other elements.
+        
+2. Use appropriate CSS properties to adjust spacing, padding, and margin as needed to achieve visually appealing results.
+
+1. Add comments in your CSS file to explain the purpose of each property.
+
+1. Test your HTML file in a browser and ensure the styles are applied correctly.
+
+### Submission:
+
+1. An HTML file.
+2. A CSS file.
+3. A summary of what you've learned in this assignment.
